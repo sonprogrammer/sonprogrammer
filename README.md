@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white" />
+	<img src="https://img.shields.io/badge/React-#61DAFB?style=flat&logo=React&logoColor=white" />
 	<br>
 </div>
 <br>
