@@ -5,7 +5,7 @@ sonprogrammer/sonprogrammer is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=youngjin%20Github!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=youngjin's%20Github&fontSize=90" />
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
