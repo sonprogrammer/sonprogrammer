@@ -37,7 +37,14 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 </div>
-
-
-
+<br>
+<div align="center">
+👨‍💻about me. Please click the button below.👨‍💻
+</div>
+<br>
+<div align="center">
+	<a href="https://sonprogrammer.netlify.app/" target="_blank">
+		<img src="https://img.shields.io/badge/more%20about%20me-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
+	</a>
+</div>
 	
