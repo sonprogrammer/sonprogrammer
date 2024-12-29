@@ -46,8 +46,8 @@ You can click the Preview link to take a look at your changes.
 	<a href="https://sonprogrammer.netlify.app/" target="_blank">
 		<img src="https://img.shields.io/badge/more%20about%20me-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
 	</a>
-<!-- 	<a href="https://glittering-mochi-caff7f.netlify.app/" target="_blank">
+	<a href="https://glittering-mochi-caff7f.netlify.app/" target="_blank">
 		<img src="https://img.shields.io/badge/more%20about%20me%20for%20fun-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
-	</a> -->
+	</a>
 </div>
 	
