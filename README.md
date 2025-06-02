@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
 	
-
+<!--
 <div align="center">
 👨‍💻about me. Please click the button below.👨‍💻
 </div>
@@ -49,6 +49,6 @@ You can click the Preview link to take a look at your changes.
 		<img src="https://img.shields.io/badge/more%20about%20me%20for%20fun-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white">
 	</a>
 </div>
-
+-->
 
 	
