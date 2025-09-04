@@ -27,15 +27,15 @@ You can click the Preview link to take a look at your changes.
 	<img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 </div>
 <br>
-<div align=center>
+<!-- <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-	<br>
-	<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white">
-	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
-</div>
+	<br> -->
+<!-- 	<img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white"> -->
+<!-- 	<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"> -->
+<!-- </div> -->
 <br>
 	
 <!--
