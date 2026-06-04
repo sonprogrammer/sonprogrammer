@@ -28,9 +28,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 <br>
 
-<div align=center>
+<!-- <div align=center>
 	<p>⚒️ 현재는 private repo 에서 MungPass 작업중입니다. ⚒️  </p>
-</div>
+</div> -->
 <!-- <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
